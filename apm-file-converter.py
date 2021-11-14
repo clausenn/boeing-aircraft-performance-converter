@@ -1,6 +1,6 @@
 ## Conversion of Boeing Aircraft Performance Files
 ## for Analysis with Column-based Analytical Tools
-## nils.clausen@tuifly.com / mail@clausenn.de
+## nils.clausen@c-bi.de
 ## 2019-05-07 17:20
 import pandas as pd
 from pathlib import Path
